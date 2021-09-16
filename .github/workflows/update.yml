@@ -28,6 +28,7 @@ jobs:
 
     - name: Commit and push if changed   # 将README.md更新到仓库
       run: |
+        git pull
         git diff
         git config --global user.email "chybet4@gmail.com"
         git config --global user.name "chybet4"
