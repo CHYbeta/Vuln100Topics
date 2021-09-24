@@ -1,6 +1,6 @@
+import datetime
 import json
 import os
-import datetime
 import dateutil.parser
 import requests
 
@@ -18,17 +18,20 @@ def query_20topics(zsxq_access_token):
     }
 
     headers = {
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:92.0) Gecko/20100101 Firefox/92.0",
-        "Accept": "application/json, text/plain, */*",
-        "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
-        "Accept-Encoding": "gzip, deflate", "X-Request-Id": "c34eaadc5-fa36-2b36-21e1-1b217325d21",
-        "X-Version": "2.9.0",
-        "Origin": "https://wx.zsxq.com",
-        "Connection": "close",
-        "Referer": "https://wx.zsxq.com/",
-        "Sec-Fetch-Dest": "empty",
-        "Sec-Fetch-Mode": "cors",
-        "Sec-Fetch-Site": "same-site"
+        'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"',
+        'X-Version': '2.9.0',
+        'X-Signature': '389fc92ed2363113d408ac9e8b291e6d89c5ba75',
+        'Sec-Ch-Ua-Mobile': '?0',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36',
+        'Accept': 'application/json, text/plain, */*',
+        'Sec-Ch-Ua-Platform': '"macOS"',
+        'Origin': 'https://wx.zsxq.com',
+        'Sec-Fetch-Site': 'same-site',
+        'Sec-Fetch-Mode': 'cors',
+        'Sec-Fetch-Dest': 'empty',
+        'Referer': 'https://wx.zsxq.com/',
+        'Accept-Encoding': 'gzip, deflate',
+        'Accept-Language': 'zh-CN,zh;q=0.9',
     }
 
     resp = requests.get(top20_url, headers=headers, params=params, cookies=cookies)
@@ -83,13 +86,15 @@ def query_20topics(zsxq_access_token):
 
 def generate_readme(topic_datas):
     markdown_prefix = "# [漏洞百出](https://public.zsxq.com/groups/555848225184.html) Topics 20\n\n"
-    markdown_prefix += "星球最新20条Topic - 更新于 {time}\n\n".format(time=datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+    markdown_prefix += "星球最新20条Topic - 更新于 {time}\n\n".format(
+        time=datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
     markdown_content_header = "|作者|内容|发表时间|\n|:---:|:---|:---|\n"
     markdown_content_topic = ""
     for topic_data in topic_datas:
         markdown_content_topic += "|" + topic_data["topic_auther"] + "|"
         markdown_content_topic += "星球链接: [{topic_id}]({topic_url})".format(topic_id=topic_data["topic_id"],
-                                                                           topic_url=topic_data["topic_url"]) + " <br />"
+                                                                           topic_url=topic_data[
+                                                                               "topic_url"]) + " <br />"
         markdown_content_topic += "简要内容: " + topic_data["topic_text"] + "<br />"
         markdown_content_topic += "文章标题: " + topic_data["topic_article_title"] + "<br />"
         markdown_content_topic += "首个文件: " + topic_data["topic_first_filename"] + "|"
