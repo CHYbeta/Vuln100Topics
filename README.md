@@ -1,9 +1,10 @@
 # [漏洞百出](https://public.zsxq.com/groups/555848225184.html) Topics 20
 
-星球最新20条Topic - 更新于 2021-09-27 09:21:44
+星球最新20条Topic - 更新于 2021-09-27 09:49:54
 
 |作者|内容|发表时间|
 |:---:|:---|:---|
+|chybeta|星球链接: [581128512182214](https://wx.zsxq.com/dweb2/index/topic_detail/581128512182214) <br />简要内容: 一个Django等py框架参数解析的技巧<br />文章标题: 一个Django等py框架参数解析的技巧<br />首个文件: 无|2021-09-27 17:48:13|
 |pen4uin|星球链接: [218855442428481](https://wx.zsxq.com/dweb2/index/topic_detail/218855442428481) <br />简要内容: 无<br />文章标题: 无<br />首个文件: 思路拓展-基于PHP环境的Net-NTLM Hash获取姿势探索.pdf|2021-09-24 17:40:20|
 |chybeta|星球链接: [218855451525281](https://wx.zsxq.com/dweb2/index/topic_detail/218855451525281) <br />简要内容: Nginx 场景绕过之三：斜杠(trailing slash) 与 ;<br />文章标题: Nginx 场景绕过之三：斜杠(trailing slash) 与 ;<br />首个文件: 无|2021-09-23 18:09:43|
 |CoolCat|星球链接: [185522122222412](https://wx.zsxq.com/dweb2/index/topic_detail/185522122222412) <br />简要内容: 无<br />文章标题: 无<br />首个文件: 一个"代码注入"的案例.pdf|2021-09-23 12:13:30|
@@ -23,4 +24,3 @@
 |chybeta|星球链接: [218514521152851](https://wx.zsxq.com/dweb2/index/topic_detail/218514521152851) <br />简要内容: CVE-2021-39115 Jira Service Management Server 的模板注入（ Spel<br />文章标题: 无<br />首个文件: 无|2021-09-08 17:19:45|
 |chybeta|星球链接: [581285851228584](https://wx.zsxq.com/dweb2/index/topic_detail/581285851228584) <br />简要内容: URL FIlter 绕过 - Python 之 Flask<br />文章标题: URL FIlter 绕过 - Python 之 Flask<br />首个文件: 无|2021-09-06 19:47:01|
 |chybeta|星球链接: [818512214858182](https://wx.zsxq.com/dweb2/index/topic_detail/818512214858182) <br />简要内容: 之前在 <e type="web" href="https%3A%2F%2Ft.zsxq.com%2FeyzJufi" title="https%3A%2F%2Ft.zsxq.com%2FeyzJuf<br />文章标题: 无<br />首个文件: 无|2021-09-05 22:01:38|
-|chybeta|星球链接: [218512814848221](https://wx.zsxq.com/dweb2/index/topic_detail/218512814848221) <br />简要内容: <e type="hashtag" hid="452584848158" title="%23CVE%23" /> <e type="mention" uid="48885554441158" tit<br />文章标题: 无<br />首个文件: Atlassian-Confluence-CVE-2021-26084漏洞分析.pdf|2021-09-03 14:41:16|
