@@ -1,9 +1,10 @@
 # [漏洞百出](https://public.zsxq.com/groups/555848225184.html) Topics 20
 
-星球最新20条Topic - 更新于 2021-09-30 15:25:50
+星球最新20条Topic - 更新于 2021-09-30 15:46:34
 
 |作者|内容|发表时间|
 |:---:|:---|:---|
+|pen4uin|星球链接: [818851111125542](https://wx.zsxq.com/dweb2/index/topic_detail/818851111125542) <br />简要内容: 无<br />文章标题: 无<br />首个文件: 从一次某微OA的漏洞复现，聊聊Resin的这个特性.pdf|2021-09-30 23:32:13|
 |我是killer|星球链接: [818851455581512](https://wx.zsxq.com/dweb2/index/topic_detail/818851455581512) <br />简要内容: 之前研究Resin里的权限绕过发现一些有意思的地方，思考了一下发现Resin存在和IIS相似的解析漏洞，具体看PDF<br />文章标题: 无<br />首个文件: 20210920-Resin解析漏洞.pdf|2021-09-29 00:09:02|
 |panda|星球链接: [218851282218221](https://wx.zsxq.com/dweb2/index/topic_detail/218851282218221) <br />简要内容: 最近学习 jvm 字节码的学习笔记，主要记录了 class 文件结构的信息还有相关的知识点<br />文章标题: 无<br />首个文件: JVM字节码学习笔记——class 文件结构.pdf|2021-09-27 19:41:37|
 |chybeta|星球链接: [581128512182214](https://wx.zsxq.com/dweb2/index/topic_detail/581128512182214) <br />简要内容: 一个Django等py框架参数解析的技巧<br />文章标题: 一个Django等py框架参数解析的技巧<br />首个文件: 无|2021-09-27 17:48:13|
@@ -23,4 +24,3 @@
 |ybdt|星球链接: [185284512148282](https://wx.zsxq.com/dweb2/index/topic_detail/185284512148282) <br />简要内容: 想问下c神，现在针对大厂的打点还有什么好的思路吗，子域、c段都测了，没什么漏洞，好难~<br />文章标题: 无<br />首个文件: 无|2021-09-11 09:57:28|
 |chybeta|星球链接: [185281454524512](https://wx.zsxq.com/dweb2/index/topic_detail/185281454524512) <br />简要内容: HAProxy 场景绕过之一: CVE-2021-40346<br />文章标题: HAProxy 场景绕过之一: CVE-2021-40346<br />首个文件: 无|2021-09-09 20:23:18|
 |chybeta|星球链接: [218514252154121](https://wx.zsxq.com/dweb2/index/topic_detail/218514252154121) <br />简要内容: 有师傅基于《 Make JDBC Attack Brilliant Again   》（ <e type="web" href="https%3A%2F%2Ft.zsxq.com%2FBeUzZRJ"<br />文章标题: 无<br />首个文件: 无|2021-09-09 13:57:57|
-|chybeta|星球链接: [218514521152851](https://wx.zsxq.com/dweb2/index/topic_detail/218514521152851) <br />简要内容: CVE-2021-39115 Jira Service Management Server 的模板注入（ Spel<br />文章标题: 无<br />首个文件: 无|2021-09-08 17:19:45|
