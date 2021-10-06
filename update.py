@@ -18,20 +18,21 @@ def query_20topics(zsxq_access_token):
     }
 
     headers = {
-        'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"',
-        'X-Version': '2.9.0',
-        'X-Signature': '389fc92ed2363113d408ac9e8b291e6d89c5ba75',
-        'Sec-Ch-Ua-Mobile': '?0',
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36',
-        'Accept': 'application/json, text/plain, */*',
-        'Sec-Ch-Ua-Platform': '"macOS"',
-        'Origin': 'https://wx.zsxq.com',
-        'Sec-Fetch-Site': 'same-site',
-        'Sec-Fetch-Mode': 'cors',
-        'Sec-Fetch-Dest': 'empty',
-        'Referer': 'https://wx.zsxq.com/',
-        'Accept-Encoding': 'gzip, deflate',
-        'Accept-Language': 'zh-CN,zh;q=0.9',
+        "Sec-Ch-Ua": "\"Chromium\";v=\"94\", \"Google Chrome\";v=\"94\", \";Not A Brand\";v=\"99\"",
+        "X-Version": "2.9.0",
+        "X-Signature": "27ca9575c61dbd3071d87185ed96cc6a734b6484",
+        "Sec-Ch-Ua-Mobile": "?0",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
+        "Accept": "application/json, text/plain, */*", "X-Timestamp": "1633519925",
+        "X-Request-Id": "47f9b9fa2-49fd-4f56-89df-219db1280fd",
+        "Sec-Ch-Ua-Platform": "\"macOS\"",
+        "Origin": "https://wx.zsxq.com",
+        "Sec-Fetch-Site": "same-site",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Dest": "empty",
+        "Referer": "https://wx.zsxq.com/",
+        "Accept-Encoding": "gzip, deflate",
+        "Accept-Language": "zh-CN,zh;q=0.9"
     }
 
     resp = requests.get(top20_url, headers=headers, params=params, cookies=cookies)

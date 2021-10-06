@@ -1,9 +1,12 @@
 # [漏洞百出](https://public.zsxq.com/groups/555848225184.html) Topics 20
 
-星球最新20条Topic - 更新于 2021-10-01 02:47:49
+星球最新20条Topic - 更新于 2021-10-06 19:34:58
 
 |作者|内容|发表时间|
 |:---:|:---|:---|
+|chybeta|星球链接: [418884551285558](https://wx.zsxq.com/dweb2/index/topic_detail/418884551285558) <br />简要内容: 0 0 国庆期间“貌似”出了不少漏洞，按照 <e type="web" href="https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoXDXvjsYuBAi44NfyYV7N<br />文章标题: 无<br />首个文件: 无|2021-10-06 19:24:50|
+|lengyi|星球链接: [218885224828281](https://wx.zsxq.com/dweb2/index/topic_detail/218885224828281) <br />简要内容: PHP 7.0--8.0的一个disable_function bypass<br />文章标题: 无<br />首个文件: 无|2021-10-06 12:52:44|
+|We1h0|星球链接: [185552244185182](https://wx.zsxq.com/dweb2/index/topic_detail/185552244185182) <br />简要内容: 国庆节发个某天平台评估价值两千的洞，日电梯才两千，🐶都不要，整点辣鸡活，记一次某电梯从黑盒到白盒到审计rce过程。<br />文章标题: 无<br />首个文件: 记一次某电梯Web系统黑盒到PHP白盒挖掘RCE的过程.pdf|2021-10-02 21:25:15|
 |pen4uin|星球链接: [818851111125542](https://wx.zsxq.com/dweb2/index/topic_detail/818851111125542) <br />简要内容: 无<br />文章标题: 无<br />首个文件: 从一次某微OA的漏洞复现，聊聊Resin的这个特性.pdf|2021-09-30 23:32:13|
 |我是killer|星球链接: [818851455581512](https://wx.zsxq.com/dweb2/index/topic_detail/818851455581512) <br />简要内容: 之前研究Resin里的权限绕过发现一些有意思的地方，思考了一下发现Resin存在和IIS相似的解析漏洞，具体看PDF<br />文章标题: 无<br />首个文件: 20210920-Resin解析漏洞.pdf|2021-09-29 00:09:02|
 |panda|星球链接: [218851282218221](https://wx.zsxq.com/dweb2/index/topic_detail/218851282218221) <br />简要内容: 最近学习 jvm 字节码的学习笔记，主要记录了 class 文件结构的信息还有相关的知识点<br />文章标题: 无<br />首个文件: JVM字节码学习笔记——class 文件结构.pdf|2021-09-27 19:41:37|
@@ -21,6 +24,3 @@
 |chybeta|星球链接: [218511515814811](https://wx.zsxq.com/dweb2/index/topic_detail/218511515814811) <br />简要内容: 利用hop-by-hop绕过：结合CVE-2021-33197<br />文章标题: 利用hop-by-hop绕过：结合CVE-2021-33197<br />首个文件: 无|2021-09-14 18:33:19|
 |chybeta|星球链接: [818511551218852](https://wx.zsxq.com/dweb2/index/topic_detail/818511551218852) <br />简要内容: URL FIlter 绕过 - Python 之 Django<br />文章标题: URL FIlter 绕过 - Python 之 Django<br />首个文件: 无|2021-09-13 17:56:04|
 |chybeta|星球链接: [218514454854141](https://wx.zsxq.com/dweb2/index/topic_detail/218514454854141) <br />简要内容: xd[皱眉]，今天好多群友私信以及提问说无法续费。安卓端应该没问题，苹果端因为关闭了星球币，所以需要通过 知识星球公众号 渠道了<br />文章标题: 无<br />首个文件: 无|2021-09-11 11:25:56|
-|ybdt|星球链接: [185284512148282](https://wx.zsxq.com/dweb2/index/topic_detail/185284512148282) <br />简要内容: 想问下c神，现在针对大厂的打点还有什么好的思路吗，子域、c段都测了，没什么漏洞，好难~<br />文章标题: 无<br />首个文件: 无|2021-09-11 09:57:28|
-|chybeta|星球链接: [185281454524512](https://wx.zsxq.com/dweb2/index/topic_detail/185281454524512) <br />简要内容: HAProxy 场景绕过之一: CVE-2021-40346<br />文章标题: HAProxy 场景绕过之一: CVE-2021-40346<br />首个文件: 无|2021-09-09 20:23:18|
-|chybeta|星球链接: [218514252154121](https://wx.zsxq.com/dweb2/index/topic_detail/218514252154121) <br />简要内容: 有师傅基于《 Make JDBC Attack Brilliant Again   》（ <e type="web" href="https%3A%2F%2Ft.zsxq.com%2FBeUzZRJ"<br />文章标题: 无<br />首个文件: 无|2021-09-09 13:57:57|
