@@ -1,13 +1,19 @@
+# 最新
+
+后续爬虫不在提供服务，每周总结可见
+1. [【漏洞百出】一周记（21.11.16 ～ 21.11.21）](https://mp.weixin.qq.com/s/w6pD9zLUdUxy8qzjT0Gedg)
+2. [【漏洞百出】一周记（21.11.22 ～ 21.11.28）](https://mp.weixin.qq.com/s/2fBmzUvOxm2-Bw7FFnQjbQ)
+
+欢迎关注微信公众号
+![](gzh.jpeg)
+
 # [漏洞百出](https://public.zsxq.com/groups/555848225184.html) Topics 20
 
-星球最新20条Topic - 更新于 2021-10-19 02:55:12
+
+星球最新20条Topic - 更新于 2021-10-14 10:03:41
 
 |作者|内容|发表时间|
 |:---:|:---|:---|
-|4ra1n|星球链接: [581115115221824](https://wx.zsxq.com/dweb2/index/topic_detail/581115115221824) <br />简要内容: 第一次发文，大佬们见笑了：<br />文章标题: 无<br />首个文件: 无|2021-10-18 16:14:05|
-|星光点亮天|星球链接: [185554555445212](https://wx.zsxq.com/dweb2/index/topic_detail/185554555445212) <br />简要内容: Apache Module mod_proxy SSRF 漏洞只有我一个人这样么，180.101.49.12是百度的IP，他并没有去连接backend_server，只是把数据包构建好还是去连接百度，<br />文章标题: 无<br />首个文件: 无|2021-10-18 14:58:36|
-|chybeta|星球链接: [818882558228812](https://wx.zsxq.com/dweb2/index/topic_detail/818882558228812) <br />简要内容: Apache Module mod_proxy 场景绕过之二: SSRF CVE-2021-40438<br />文章标题: Apache Module mod_proxy 场景绕过之二: SSRF CVE-2021-40438<br />首个文件: 无|2021-10-15 16:56:05|
-|r00t4dm|星球链接: [581111454421244](https://wx.zsxq.com/dweb2/index/topic_detail/581111454421244) <br />简要内容: debuging openjdk8 in macOs.<br />文章标题: 无<br />首个文件: openjdk8_编译与clion_调试.pdf|2021-10-14 18:49:15|
 |chybeta|星球链接: [818888225428842](https://wx.zsxq.com/dweb2/index/topic_detail/818888225428842) <br />简要内容: PHP 利用未知伪协议进行目录遍历<br />文章标题: PHP 利用未知伪协议进行目录遍历<br />首个文件: 无|2021-10-12 19:22:15|
 |Dreams|星球链接: [581111552154844](https://wx.zsxq.com/dweb2/index/topic_detail/581111552154844) <br />简要内容: SELECT * FROM `json_data` WHERE JSON_EXTRACT(`data`,'$.name\\')IS NOT NULL or 1=1 or ') = 'xxx' LIMI<br />文章标题: 无<br />首个文件: 无|2021-10-12 18:35:08|
 |chybeta|星球链接: [581111285248284](https://wx.zsxq.com/dweb2/index/topic_detail/581111285248284) <br />简要内容: 这俩天看到国内外都有热帖在谈SSRF，国内的是云鼎实验室的 <e type="web" href="https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgMdorUjh5U_dJ<br />文章标题: 无<br />首个文件: 无|2021-10-11 20:31:09|
@@ -24,3 +30,7 @@
 |chybeta|星球链接: [581128512182214](https://wx.zsxq.com/dweb2/index/topic_detail/581128512182214) <br />简要内容: 一个Django等py框架参数解析的技巧<br />文章标题: 一个Django等py框架参数解析的技巧<br />首个文件: 无|2021-09-27 17:48:13|
 |pen4uin|星球链接: [218855442428481](https://wx.zsxq.com/dweb2/index/topic_detail/218855442428481) <br />简要内容: 无<br />文章标题: 无<br />首个文件: 思路拓展-基于PHP环境的Net-NTLM Hash获取姿势探索.pdf|2021-09-24 17:40:20|
 |chybeta|星球链接: [218855451525281](https://wx.zsxq.com/dweb2/index/topic_detail/218855451525281) <br />简要内容: Nginx 场景绕过之三：斜杠(trailing slash) 与 ;<br />文章标题: Nginx 场景绕过之三：斜杠(trailing slash) 与 ;<br />首个文件: 无|2021-09-23 18:09:43|
+|CoolCat|星球链接: [185522122222412](https://wx.zsxq.com/dweb2/index/topic_detail/185522122222412) <br />简要内容: 无<br />文章标题: 无<br />首个文件: 一个"代码注入"的案例.pdf|2021-09-23 12:13:30|
+|chybeta|星球链接: [818855885151222](https://wx.zsxq.com/dweb2/index/topic_detail/818855885151222) <br />简要内容: CVE-2021-22005 vCenter Server file upload vulnerability<br />文章标题: 无<br />首个文件: 无|2021-09-22 08:21:53|
+|chybeta|星球链接: [418844841188428](https://wx.zsxq.com/dweb2/index/topic_detail/418844841188428) <br />简要内容: php 反序列化的一个trick<br />文章标题: php 反序列化的一个trick<br />首个文件: 无|2021-09-21 23:52:40|
+|threedr3am|星球链接: [818855581148522](https://wx.zsxq.com/dweb2/index/topic_detail/818855581148522) <br />简要内容: Spring Security的一个简单auth bypass和一些源码小笔记<br />文章标题: Spring Security的一个简单auth bypass和一些源码小笔记<br />首个文件: 无|2021-09-19 23:11:52|
